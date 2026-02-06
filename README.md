@@ -53,7 +53,7 @@ const matias = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Tools & Platforms
+### Herramientas & Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,104 +63,64 @@ const matias = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiasgzlez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=FF0080&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgzlez&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF"/>
-
-</div>
+## 🎯 Proyecto Destacado
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=matiasgzlez&theme=algolia&hide_border=true&background=0D1117&ring=00FFA3&fire=FF0080&currStreakLabel=00FFA3&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matiasgzlez&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFA3&line=FF0080&point=7B2FFF)
-
-</div>
-
----
-
-## 🎯 Proyectos Destacados
-
-<div align="center">
+### 📚 [MiFacu](https://github.com/matiasgzlez/MiFacu)
 
 <a href="https://github.com/matiasgzlez/MiFacu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matiasgzlez&repo=MiFacu&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=FF0080&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/matiasgzlez/AutoDiagnosticoVUCAK2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matiasgzlez&repo=AutoDiagnosticoVUCAK2solutions&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=FF0080&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/matiasgzlez/basededatos2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matiasgzlez&repo=basededatos2025&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=FF0080&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasgzlez&repo=MiFacu&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=FF0080&text_color=FFFFFF&description_lines_count=3" />
 </a>
 
 </div>
 
-### 📚 MiFacu
-> Sistema educativo completo desarrollado en TypeScript para gestión académica.
+**Sistema educativo completo** desarrollado en TypeScript para gestión académica. Proyecto principal enfocado en mejorar la experiencia de estudiantes y docentes con una plataforma moderna y eficiente.
 
-**Tecnologías:** TypeScript, React, Node.js
+**Stack Principal:** TypeScript • React • Node.js
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+### Lenguajes Más Utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgzlez&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&locale=es)
+
+### Racha de Commits
+
+![GitHub Streak](https://streak-stats.demolab.com?user=matiasgzlez&theme=algolia&hide_border=true&background=0D1117&ring=00FFA3&fire=FF0080&currStreakLabel=00FFA3&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8892B0&locale=es&date_format=j%20M%5B%20Y%5D)
+
+### Resumen General
+
+![Matías's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasgzlez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=FF0080&text_color=FFFFFF&locale=es&hide=contribs)
+
+</div>
+
+---
+
+## 💼 Otros Proyectos
+
+<details>
+<summary><b>Ver más proyectos</b></summary>
+
+<br>
+
 ### 📊 AutoDiagnóstico VUCA
-> Herramienta empresarial para análisis de entornos VUCA (Volatilidad, Incertidumbre, Complejidad y Ambigüedad).
+Herramienta empresarial para análisis de entornos VUCA (Volatilidad, Incertidumbre, Complejidad y Ambigüedad).
 
 **Tecnologías:** TypeScript, Analytics Dashboard
 
 ---
 
-### 🗄️ Base de Datos 2025
-> Proyecto de diseño e implementación de bases de datos relacionales con SQL avanzado.
+### 🔧 AutoDiagnóstico Eventos España
+Sistema de diagnóstico para gestión de eventos.
 
-**Tecnologías:** SQL, PostgreSQL, Database Design
+**Tecnologías:** TypeScript
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=matiasgzlez&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribuciones
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/matiasgzlez/matiasgzlez/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💡 Lo que estoy haciendo
-
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-- 🔭 Trabajando en proyectos de **TypeScript** y **React**
-- 🌱 Aprendiendo **arquitecturas escalables** y **clean code**
-- 💬 Preguntame sobre **JavaScript, TypeScript, React, Node.js**
-- ⚡ Fun fact: **Debuggear es como ser un detective en una película de crimen**
+</details>
 
 ---
 
@@ -169,9 +129,8 @@ while (alive) {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matiasgzlez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFA3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasgzlez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias03gonzalez@gmail.com)
 
 </div>
 
@@ -182,12 +141,6 @@ while (alive) {
 ### 💭 Quote del día
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-### 🎵 Coding Soundtrack
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tu_spotify_id&count=3&unique=true)
 
 ---
 
