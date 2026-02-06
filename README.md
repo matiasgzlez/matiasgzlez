@@ -22,6 +22,22 @@ const matias = {
 
 ---
 
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-0a0a0f?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+</p>
+
+---
+
 ### 📌 Proyecto destacado
 
 <a href="https://github.com/matiasgzlez/MiFacu">
@@ -36,6 +52,16 @@ const matias = {
 </a>
 
 <br clear="left"/>
+
+---
+
+### 🐍 Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matiasgzlez/matiasgzlez/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matiasgzlez/matiasgzlez/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/matiasgzlez/matiasgzlez/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 ---
 
