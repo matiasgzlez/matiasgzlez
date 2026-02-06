@@ -1,0 +1,131 @@
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00FFA3;stop-opacity:1">
+        <animate attributeName="stop-color" values="#00FFA3;#FF0080;#7B2FFF;#00FFA3" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#FF0080;stop-opacity:1">
+        <animate attributeName="stop-color" values="#FF0080;#7B2FFF;#00FFA3;#FF0080" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#7B2FFF;stop-opacity:1">
+        <animate attributeName="stop-color" values="#7B2FFF;#00FFA3;#FF0080;#7B2FFF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FFA3;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FF0080;stop-opacity:1"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title { 
+        font-family: 'Courier New', monospace; 
+        font-size: 60px; 
+        font-weight: bold;
+        fill: url(#textGrad);
+        filter: url(#glow);
+      }
+      .subtitle { 
+        font-family: 'Courier New', monospace; 
+        font-size: 18px; 
+        fill: #8892B0;
+        letter-spacing: 3px;
+      }
+      .code-line {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #00FFA3;
+      }
+      .cursor {
+        fill: #00FFA3;
+        animation: blink 1s infinite;
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="300" fill="#0A0E27"/>
+  
+  <!-- Animated grid lines -->
+  <g opacity="0.1">
+    <line x1="0" y1="60" x2="100%" y2="60" stroke="url(#grad1)" stroke-width="1">
+      <animate attributeName="opacity" values="0.1;0.3;0.1" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="120" x2="100%" y2="120" stroke="url(#grad1)" stroke-width="1">
+      <animate attributeName="opacity" values="0.3;0.1;0.3" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="180" x2="100%" y2="180" stroke="url(#grad1)" stroke-width="1">
+      <animate attributeName="opacity" values="0.1;0.3;0.1" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="240" x2="100%" y2="240" stroke="url(#grad1)" stroke-width="1">
+      <animate attributeName="opacity" values="0.3;0.1;0.3" dur="3s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Floating particles -->
+  <circle cx="10%" cy="50" r="2" fill="#00FFA3" opacity="0.6">
+    <animate attributeName="cy" values="50;250;50" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="30%" cy="200" r="3" fill="#FF0080" opacity="0.5">
+    <animate attributeName="cy" values="200;80;200" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70%" cy="100" r="2" fill="#7B2FFF" opacity="0.7">
+    <animate attributeName="cy" values="100;220;100" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90%" cy="180" r="2.5" fill="#00FFA3" opacity="0.6">
+    <animate attributeName="cy" values="180;60;180" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Code snippet decoration -->
+  <g transform="translate(50, 50)">
+    <text class="code-line" x="0" y="0" opacity="0.3">
+      &lt;developer&gt;
+    </text>
+    <text class="code-line" x="20" y="20" opacity="0.4">
+      fullStack: true,
+    </text>
+    <text class="code-line" x="20" y="40" opacity="0.5">
+      typescript: true,
+    </text>
+  </g>
+
+  <!-- Main title -->
+  <text x="50%" y="140" text-anchor="middle" class="title">
+    MATÍAS GONZÁLEZ
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="175" text-anchor="middle" class="subtitle">
+    FULL STACK DEVELOPER
+  </text>
+
+  <!-- Bottom code line with cursor -->
+  <g transform="translate(50, 240)">
+    <text class="code-line" x="0" y="0" opacity="0.4">
+      &lt;/developer&gt;
+    </text>
+    <rect class="cursor" x="120" y="-12" width="8" height="15"/>
+  </g>
+
+  <!-- Accent lines -->
+  <line x1="50%" y1="190" x2="50%" y2="210" stroke="url(#grad1)" stroke-width="3">
+    <animate attributeName="y1" values="190;195;190" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="210;205;210" dur="2s" repeatCount="indefinite"/>
+  </line>
+</svg>
