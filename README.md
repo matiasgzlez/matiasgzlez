@@ -25,15 +25,28 @@ const matias = {
 ### 📌 Proyecto destacado
 
 <a href="https://github.com/matiasgzlez/MiFacu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matiasgzlez&repo=MiFacu&bg_color=0a0a0f&title_color=00FFA3&icon_color=00FFA3&text_color=e2e8f0&border_color=1a1a2e" />
+  <picture>
+    <img src="./mifacu-logo.png" width="52" alt="MiFacu" align="left" style="margin-right: 12px;" />
+  </picture>
+  <strong>MiFacu</strong>
+  <br/>
+  <sub>Sistema educativo completo para gestión académica. Plataforma moderna pensada para mejorar la experiencia de estudiantes y docentes.</sub>
+  <br/>
+  <sub><code>TypeScript</code> <code>React</code> <code>Node.js</code></sub>
 </a>
+
+<br clear="left"/>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgzlez&layout=compact&langs_count=6&bg_color=0a0a0f&title_color=00FFA3&text_color=e2e8f0&border_color=1a1a2e&locale=es" height="155"/>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasgzlez&layout=compact&langs_count=6&bg_color=0a0a0f&title_color=00FFA3&text_color=e2e8f0&border_color=1a1a2e&locale=es" height="155" alt="Top Languages"/>
+  </picture>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=matiasgzlez&background=0A0A0F&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=4a5568&border=1a1a2e&locale=es" height="155"/>
+  <picture>
+    <img src="https://streak-stats.demolab.com?user=matiasgzlez&background=0A0A0F&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=4a5568&border=1a1a2e&locale=es" height="155" alt="GitHub Streak"/>
+  </picture>
 </p>
 
 ---
