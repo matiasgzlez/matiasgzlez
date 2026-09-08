@@ -15,8 +15,8 @@ Estudio Ingeniería en Sistemas en la UTN y construyo **miFACU**, una app para
 estudiantes que está publicada en la App Store y en Google Play.
 
 Hago el producto entero: el iOS nativo en Swift, el Android, la web, el backend y
-los deploys. Me interesa más que algo llegue a la mano de alguien que que quede
-lindo en un repo.
+los deploys. Prefiero que algo le sirva a alguien antes que quede lindo en un
+repo.
 
 ```ts
 const matias = {
