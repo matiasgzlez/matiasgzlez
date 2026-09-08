@@ -11,13 +11,6 @@
 
 ---
 
-Estudio Ingeniería en Sistemas en la UTN y construyo **miFACU**, una app para
-estudiantes que está publicada en la App Store y en Google Play.
-
-Hago el producto entero: el iOS nativo en Swift, el Android, la web, el backend y
-los deploys. Prefiero que algo le sirva a alguien antes que quede lindo en un
-repo.
-
 ```ts
 const matias = {
     location: "Resistencia, Chaco 🇦🇷",
@@ -52,14 +45,14 @@ const matias = {
 
 **miFACU** · [App Store](https://apps.apple.com/ar/app/id6758393223) · [Google Play](https://play.google.com/store/apps/details?id=com.plaidlabs.mifacu) · [mifacu.com.ar](https://mifacu.com.ar)
 <br/>
-<sub>La app que te ordena la carrera: materias, correlativas, parciales y cuánto te falta para recibirte. Más de 250 planes de estudio cargados a pedido de los propios estudiantes.</sub>
+<sub>La app que te ordena la carrera: materias, correlativas, parciales y cuánto te falta para recibirte. +2.350 estudiantes y 489 planes de estudio cargados, en 180 universidades e institutos.</sub>
 <br/>
 <sub><code>Swift</code> <code>SwiftUI</code> <code>React Native</code> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
 
 <br clear="left"/>
 <br/>
 
-**[Velarium](https://github.com/matiasgzlez/velarium)** · [Probala](https://velarium-app-mac.vercel.app)
+**[Velarium](https://github.com/matiasgzlez/velarium)** · `en construcción`
 <br/>
 <sub>Tu Mac, en tu mano. Espejás la pantalla en el celular y pasás las diapositivas deslizando el dedo. Escaneás un QR y listo: sin instalar nada en el teléfono, sin cuentas y sin internet.</sub>
 <br/>
@@ -74,8 +67,6 @@ const matias = {
 <sub><code>Vite</code> <code>TypeScript</code> <code>Three.js</code> <code>Supabase</code></sub>
 
 <br/>
-
-<sub>El repo de miFACU es privado; el código de las apps y del backend no está publicado.</sub>
 
 ---
 
