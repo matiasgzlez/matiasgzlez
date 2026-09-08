@@ -11,47 +11,71 @@
 
 ---
 
+Estudio Ingeniería en Sistemas en la UTN y construyo **miFACU**, una app para
+estudiantes que está publicada en la App Store y en Google Play.
+
+Hago el producto entero: el iOS nativo en Swift, el Android, la web, el backend y
+los deploys. Me interesa más que algo llegue a la mano de alguien que que quede
+lindo en un repo.
+
 ```ts
 const matias = {
-    location: "Argentina 🇦🇷",
-    stack: ["TypeScript", "React", "Node.js", "Express", "PostgreSQL"],
-    learning: "siempre algo nuevo 🚀",
+    location: "Resistencia, Chaco 🇦🇷",
+    building: "miFACU — iOS · Android · Web · Backend",
+    stack: ["Swift", "TypeScript", "React Native", "Next.js", "Node.js", "PostgreSQL"],
     motto: "pa'lante, con fe."
 };
 ```
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Swift-0a0a0f?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0a0a0f?style=for-the-badge&logo=swift&logoColor=0071e3" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-0a0a0f?style=for-the-badge&logo=expo&logoColor=ffffff" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-0a0a0f?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Three.js-0a0a0f?style=for-the-badge&logo=threedotjs&logoColor=ffffff" alt="Three.js"/>
 </p>
 
 ---
 
-### 📌 Proyecto destacado
+### 📌 Proyectos
 
-<a href="https://github.com/matiasgzlez/MiFacu">
-  <picture>
-    <img src="./mifacu-logo.png" width="52" alt="MiFacu" align="left" style="margin-right: 12px;" />
-  </picture>
-  <strong>MiFacu</strong>
-  <br/>
-  <sub>Sistema educativo completo para gestión académica. Plataforma moderna pensada para mejorar la experiencia de estudiantes y docentes.</sub>
-  <br/>
-  <sub><code>TypeScript</code> <code>React</code> <code>Node.js</code></sub>
-</a>
+<img src="./mifacu-logo.png" width="52" alt="miFACU" align="left" style="margin-right: 12px;" />
+
+**miFACU** · [App Store](https://apps.apple.com/ar/app/id6758393223) · [Google Play](https://play.google.com/store/apps/details?id=com.plaidlabs.mifacu) · [mifacu.com.ar](https://mifacu.com.ar)
+<br/>
+<sub>La app que te ordena la carrera: materias, correlativas, parciales y cuánto te falta para recibirte. Más de 250 planes de estudio cargados a pedido de los propios estudiantes.</sub>
+<br/>
+<sub><code>Swift</code> <code>SwiftUI</code> <code>React Native</code> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
 
 <br clear="left"/>
+<br/>
+
+**[Velarium](https://github.com/matiasgzlez/velarium)** · [Probala](https://velarium-app-mac.vercel.app)
+<br/>
+<sub>Tu Mac, en tu mano. Espejás la pantalla en el celular y pasás las diapositivas deslizando el dedo. Escaneás un QR y listo: sin instalar nada en el teléfono, sin cuentas y sin internet.</sub>
+<br/>
+<sub><code>Swift</code> <code>macOS</code></sub>
+
+<br/>
+
+**[Juegachos](https://github.com/matiasgzlez/Juegachos)** · [juegachos.com](https://www.juegachos.com)
+<br/>
+<sub>Una colección de minijuegos para el navegador, con ranking global y multijugador por salas. Hecho sin framework, con los 3D en Three.js.</sub>
+<br/>
+<sub><code>Vite</code> <code>TypeScript</code> <code>Three.js</code> <code>Supabase</code></sub>
+
+<br/>
+
+<sub>El repo de miFACU es privado; el código de las apps y del backend no está publicado.</sub>
 
 ---
 
